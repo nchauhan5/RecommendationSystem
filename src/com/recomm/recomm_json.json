@@ -1,0 +1,52 @@
+{ 'dataset' : [{'name':'Lisa Rose', 
+			 'moviesList':[
+							{'movieName' : 'Lady in the Water', 'movieRating' : 2.5}, 
+							{'movieName' : 'Snakes on a Plane', 'movieRating' : 3.5},
+							{'movieName' : 'Just My Luck', 'movieRating' : 3.0}, 
+							{'movieName' : 'Superman Returns', 'movieRating' : 3.5}, 
+							{'movieName' : 'You, Me and Dupree', 'movieRating'  : 2.5},
+							{'movieName' : 'The Night Listener', 'movieRating'  : 3.0}]},
+			{'name':'Gene Seymour', 
+			 'moviesList':[
+							{'movieName' : 'Lady in the Water', 'movieRating'  : 3.0}, 
+							{'movieName' : 'Snakes on a Plane', 'movieRating'  : 3.5},
+							{'movieName' : 'Just My Luck', 'movieRating'  : 1.5},
+							{'movieName' : 'Superman Returns', 'movieRating'  : 5.0}, 
+							{'movieName' : 'The Night Listener', 'movieRating' : 3.0},
+							{'movieName' : 'You, Me and Dupree', 'movieRating' : 3.5}]},
+
+			{'name':'Michael Phillips', 
+			 'moviesList':[
+							{'movieName' : 'Lady in the Water', 'movieRating'  : 2.5}, 
+							{'movieName' : 'Snakes on a Plane', 'movieRating'  : 3.0},
+							{'movieName' : 'Superman Returns', 'movieRating'  : 3.5},
+							{'movieName' : 'The Night Listener', 'movieRating'  : 4.0}]},
+			{'name':'Claudia Puig', 
+			 'moviesList':[
+							{'movieName' : 'Snakes on a Plane', 'movieRating'  : 3.5},
+							{'movieName' : 'Just My Luck', 'movieRating'  : 3.0},
+							{'movieName' : 'The Night Listener', 'movieRating'  : 4.5}, 
+							{'movieName' : 'Superman Returns', 'movieRating'  : 4.0},
+							{'movieName' : 'You, Me and Dupree', 'movieRating'  : 2.5}]},
+			{'name':'Mick LaSalle', 
+			 'moviesList':[
+							{'movieName' : 'Lady in the Water', 'movieRating'  : 3.0},
+							{'movieName' : 'Snakes on a Plane', 'movieRating'  : 4.0},
+							{'movieName' : 'Just My Luck', 'movieRating'  : 2.0},
+							{'movieName' : 'Superman Returns', 'movieRating'  : 3.0},
+							{'movieName' : 'The Night Listener', 'movieRating'  : 3.0},
+							{'movieName' : 'You, Me and Dupree', 'movieRating'  : 2.0}]},
+			{'name':'Jack Matthews', 
+			 'moviesList':[
+							{'movieName' : 'Lady in the Water', 'movieRating'  : 3.0}, 
+							{'movieName' : 'Snakes on a Plane', 'movieRating'  : 4.0},
+							{'movieName' : 'The Night Listener', 'movieRating'  : 3.0}, 
+							{'movieName' : 'Superman Returns', 'movieRating'  : 5.0},
+							{'movieName' : 'You, Me and Dupree', 'movieRating'  : 3.5}]},
+			{'name':'Toby', 
+			 'moviesList':[
+							{'movieName' : 'Snakes on a Plane', 'movieRating'  : 4.5},
+							{'movieName' : 'You, Me and Dupree', 'movieRating'  : 1.0},
+							{'movieName' : 'Superman Returns', 'movieRating'  : 4.0}]}
+	]
+}
